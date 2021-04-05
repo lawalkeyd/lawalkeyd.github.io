@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [School Management System](https://youtu.be/7O1jIgx5H_A)
 
@@ -19,7 +19,15 @@ Wallet Web App for storing money in different currency. The Web API was built us
 A Twitter-like social network website for making posts and following users. Definitely have the design part to work on.
 
 
-<!-- ---
+---
+
+---
+[School Website](https://theconcordschool.org)
+Built and currently maintain a Wordpress site for a popular school in Ibadan, Nigeria.
+
+
+---
+<!-- 
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 -->
