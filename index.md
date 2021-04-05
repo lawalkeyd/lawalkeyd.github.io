@@ -23,6 +23,7 @@ A Twitter-like social network website for making posts and following users. Defi
 
 ---
 [School Website](https://theconcordschool.org)
+
 Built and currently maintain a Wordpress site for a popular school in Ibadan, Nigeria.
 
 
