@@ -4,12 +4,17 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[School Management System](https://youtu.be/7O1jIgx5H_A)
+
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Fast](https://github.com/lawalkeyd/Fast)
+Wallet Web App for storing money in different currency. The Web API was built using Django and Django Rest Framework. Two different types of users with different permissions: Noob and Elite. 
+
+
+---
+[Twitter-Like Social Network](https://youtu.be/1Ota5czX7Qg)
+
 
 ---
 [Project 3 Title](http://example.com/)
