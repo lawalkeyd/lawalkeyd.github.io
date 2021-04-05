@@ -21,7 +21,7 @@ A Twitter-like social network website for making posts and following users. Defi
 
 ---
 
----
+
 [School Website](https://theconcordschool.org)
 
 Built and currently maintain a Wordpress site for a popular school in Ibadan, Nigeria.
@@ -40,13 +40,11 @@ Built and currently maintain a Wordpress site for a popular school in Ibadan, Ni
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
---- -->
+- [Project 5 Title](http://example.com/) -->
 
 
 
 
----
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
